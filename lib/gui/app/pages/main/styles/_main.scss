@@ -33,6 +33,10 @@ svg-icon > img[disabled] {
   color: $palette-theme-dark-disabled-foreground;
 }
 
+.page-main .drive-step.text-warning {
+  color: $palette-theme-warning-background;
+}
+
 .page-main .relative {
   position: relative;
 }
@@ -99,7 +103,7 @@ svg-icon > img[disabled] {
   padding: 0;
 }
 
-.page-main .step-drive.glyphicon {
+.page-main .drive-step.glyphicon {
   margin-top: 1px;
 }
 

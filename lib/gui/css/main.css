@@ -6517,6 +6517,9 @@ svg-icon > img[disabled] {
 .page-main .text-disabled > span {
   color: #787c7f; }
 
+.page-main .drive-step.text-warning {
+  color: #ff912f; }
+
 .page-main .relative {
   position: relative; }
 
@@ -6569,7 +6572,7 @@ svg-icon > img[disabled] {
   border-radius: 0;
   padding: 0; }
 
-.page-main .step-drive.glyphicon, .page-main .step-drive.tick {
+.page-main .drive-step.glyphicon, .page-main .drive-step.tick {
   margin-top: 1px; }
 
 .page-main .glyphicon, .page-main .tick {
