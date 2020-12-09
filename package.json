@@ -117,7 +117,7 @@
     "mochainon": "2.0.0",
     "nock": "9.2.3",
     "node-gyp": "3.5.0",
-    "node-sass": "4.7.2",
+    "node-sass": "4.13.1",
     "pkg": "4.3.0",
     "sass-lint": "1.12.1",
     "simple-progress-webpack-plugin": "1.1.2",
