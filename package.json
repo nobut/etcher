@@ -38,7 +38,7 @@
     "fsevents"
   ],
   "dependencies": {
-    "angular": "1.6.3",
+    "angular": "1.8.0",
     "angular-if-state": "1.0.0",
     "angular-moment": "1.0.1",
     "angular-seconds-to-date": "1.0.0",
